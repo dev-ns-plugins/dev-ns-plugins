@@ -1,4 +1,4 @@
-<!-- Banner --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:ad1dc5&height=200&section=header&text=DEV%20NS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20NS%20Plugins&descAlign=50&descAlignY=65"/> </div>
+<!-- Banner --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:ad1dc5&height=200&section=header&text=DEV%20NS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20%7C%20P4X%20STEALTH&descAlign=50&descAlignY=65"/> </div>
 
 
 
