@@ -15,7 +15,7 @@ Busco constantemente evoluir como profissional, entregando projetos que realment
 
 ----------
 
-## 🧠 Por que escolher a NS Plugins?
+## 🧠 Por que escolher a P4X STEALTH?
 
 Desenvolvemos soluções inovadoras, robustas e escaláveis para atender suas necessidades:
 
@@ -49,12 +49,12 @@ Desenvolvemos soluções inovadoras, robustas e escaláveis para atender suas ne
 ## 📬 Contato
 
 -   📧 Email: contato.devns@gmail.com
--   💬 Discord: [@NSPLUGINS](https://dsc.gg/nsplugins/)
--   📹 YouTube: [@NSPLUGINS](https://www.youtube.com/@nsplugins)
+-   💬 Discord: [@P4X STEALTH](https://dsc.gg/P4XSTEALTH/)
+-   📹 YouTube: [@P4X STEALTH](https://www.youtube.com/@P4XSTEALTH)
 
 ----------
 
-**NS Plugins — Criando soluções que funcionam de verdade.**
+**P4X STEALTH — Criando soluções que funcionam de verdade.**
 
 <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:ad1dc5&height=120&section=footer"/> </div> <div align="center"> <img src="https://raw.githubusercontent.com/italoo97/italoo97/output/snake.svg" alt="Snake animation" /> </div>
 
